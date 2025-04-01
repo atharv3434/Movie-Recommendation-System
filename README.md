@@ -15,3 +15,25 @@ MovieRecommender/
 │── MovieRecommender.java     (Main Application)
 │── MovieDatabase.java        (Stores Movie Data)
 │── UserPreferences.java      (Manages User Preferences)
+
+🎯 How It Works?
+User Adds Movies 🎬
+
+Stores movie titles and genres
+
+Gets Movie Recommendations 🍿
+
+Suggests movies based on genre
+
+Users Rate Movies ⭐
+
+Stores ratings for personalized recommendations
+
+🚀 How to Run?
+Compile: javac *.java
+
+Run: java MovieRecommender
+
+Enjoy Personalized Movie Recommendations! 🎥
+
+
